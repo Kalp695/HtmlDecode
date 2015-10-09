@@ -26,6 +26,10 @@ send special char in url
 }
 
 
+use it  like
+ [str urlencode];
+ 
+
 
 Decode HTML Which Comes from webservice
 
