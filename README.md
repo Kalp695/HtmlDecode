@@ -67,3 +67,11 @@ https://itunes.apple.com/in/app/rushlaw/id1062641927?mt=8
 17:
 LOS 4 EVANGELIOS
 https://itunes.apple.com/us/app/los-4-evangelios/id882817864?mt=8
+
+18
+Gandhi
+https://itunes.apple.com/us/app/gandhi/id955807064?mt=8
+
+19
+Matchideas
+https://itunes.apple.com/us/app/matchideas/id816094217?mt=8
